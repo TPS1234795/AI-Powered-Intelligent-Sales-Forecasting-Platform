@@ -1,3 +1,0 @@
-company_name,industry,contact_name,contact_title,email,company_size,annual_revenue,location,funding_stage,tech_stack,lead_status
-Northwind Retail,Retail,Priya Nair,Director of Operations,priya@northwind.example,500-1000,$90M,Chicago IL,Series B,AWS;Python;PostgreSQL,New
-Helix Health,Healthcare,Tom Becker,CIO,tom@helix.example,250-500,$60M,Boston MA,Series C,Azure;Docker,Contacted
